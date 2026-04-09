@@ -60,21 +60,16 @@ Git · GitHub · Firebase · MATLAB · Jupyter · Arduino
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dcod36\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dcod36&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcod36&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dcod36\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dcod36\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dcod36&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
