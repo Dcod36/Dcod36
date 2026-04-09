@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Building+AI+that+sees+the+world;🚀+Hackathon+Winner+%7C+Problem+Solver;💡+3rd+Year+B.Tech+IT+%40+CUSAT;🔭+Exploring+CV%2C+ML+%26+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+sees+the+world;Hackathon+Winner+%7C+Problem+Solver;3rd+Year+B.Tech+IT+%40+CUSAT;Exploring+CV%2C+ML+%26+Deep+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,14 +38,14 @@ class Devika:
     def __init__(self):
         self.name        = "Devika Santhosh"
         self.role        = "AI & ML Enthusiast | Computer Vision"
-        self.university  = "SOE, CUSAT — B.Tech IT (3rd Year)"
+        self.university  = "SOE, CUSAT - B.Tech IT (3rd Year)"
         self.diploma     = "Programming @ IIT Madras"
         self.interests   = ["Computer Vision", "Deep Learning", "Hackathons", "DSA"]
         self.languages   = ["Python", "C++", "JavaScript", "Dart"]
-        self.superpower  = "Turning caffeine into AI models ☕→🤖"
+        self.superpower  = "Turning caffeine into AI models"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something amazing together!")
 
 me = Devika()
 me.say_hi()
@@ -131,14 +131,11 @@ Arrays · Sliding Window · Prefix Sum · Hashing · Two Pointers · Binary Sear
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dcod36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcod36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="165"/>
+![Devika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcod36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dcod36&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dcod36&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="70%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Dcod36&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -148,7 +145,7 @@ Arrays · Sliding Window · Prefix Sum · Hashing · Two Pointers · Binary Sear
 
 <div align="center">
 
-![Devika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dcod36&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)
+![Devika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dcod36&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -158,12 +155,12 @@ Arrays · Sliding Window · Prefix Sum · Hashing · Two Pointers · Binary Sear
 
 <div align="center">
 
-> **💡 Set up the snake animation** by creating `.github/workflows/snake.yml` in your `Dcod36/Dcod36` repo:
+> **To enable the snake animation**, create `.github/workflows/snake.yml` in your `Dcod36/Dcod36` repo:
 
 </div>
 
 <details>
-<summary>📋 Click to see snake.yml</summary>
+<summary>Click to see snake.yml</summary>
 
 ```yaml
 name: Generate Snake
@@ -198,7 +195,7 @@ jobs:
 
 <div align="center">
 
-<!-- Remove the comment tags below AFTER running the workflow once -->
+<!-- Uncomment after running the workflow once -->
 <!-- ![snake gif](https://github.com/Dcod36/Dcod36/blob/output/github-contribution-grid-snake-dark.svg) -->
 
 </div>
@@ -209,7 +206,7 @@ jobs:
 
 <div align="center">
 
-> *"I enjoy building AI systems that solve real-world problems — one model at a time."* 🤖
+> *"I enjoy building AI systems that solve real-world problems — one model at a time."*
 
 </div>
 
@@ -222,7 +219,7 @@ jobs:
 **Open to internships, collaborations, and exciting AI opportunities!**
 
 <a href="mailto:devikasanthosh389@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me!-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hire%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/devika-santhosh-7b73472b2">
