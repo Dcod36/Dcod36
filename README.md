@@ -30,33 +30,18 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-class Devika:
-    def __init__(self):
-        self.name = "Devika Santhosh"
-        self.location = "Kerala, India 📍"
-        self.education = [
-            "B.Tech IT @ CUSAT, Kochi (2022–2026)",
-            "BS Data Science @ IIT Madras (Ongoing)"
-        ]
-        self.cgpa = 8.6
-        self.focus = [
-            "Computer Vision",
-            "Artificial Intelligence",
-            "Machine Learning"
-        ]
-        self.achievements = [
-            "🥇 TinkerHack (1st Place)",
-            "🥉 HackEuropa (3rd – European Stage)",
-            "🚀 TechSprint Top 10"
-        ]
-        self.status = "Open to opportunities ✨"
+- 👩‍💻 **Devika Santhosh**
+- 📍 Kerala, India  
+- 🎓 B.Tech IT @ CUSAT (2022–2026)  
+- 🎓 BS Data Science @ IIT Madras (Ongoing)  
+- 🧠 Interests: Computer Vision, AI, Machine Learning  
+- 🏆 Achievements:  
+  - 🥇 TinkerHack (1st Place)  
+  - 🥉 HackEuropa (European Stage)  
+  - 🚀 TechSprint Top 10  
+- 💼 Status: **Open to opportunities ✨**
 
-    def passion(self):
-        return "Building intelligent systems beyond theory — from CV pipelines to AI tools."
-```
-
-> *"Always building, always learning — creating meaningful impact."*
+> *Always building, always learning — creating meaningful impact.*
 
 ## 🏆 Achievements
 
