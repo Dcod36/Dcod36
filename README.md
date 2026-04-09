@@ -8,46 +8,7 @@
 
 </div>
 
-<!-- ══════════════════════════════════════════ -->
-<!--       ANIMATED GIRL + GREETING SECTION     -->
-<!-- ══════════════════════════════════════════ -->
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<!-- ✅ Verified working: coding person with setup -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding Animation" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Devika+Santhosh!+✨;Nice+to+Meet+You!+💜;Let's+Build+Together!+🚀" alt="Greeting Typing" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=EC4899&center=true&vCenter=true&width=430&lines=AI+%26+ML+Enthusiast+🤖;Computer+Vision+Explorer+👁️;Deep+Learning+Learner+🧠;Building+Real-World+Projects+🚀;DSA+%26+Problem+Solving+💻" alt="Roles" />
-
-<br/><br/>
-
-<a href="https://github.com/Dcod36">
-  <img src="https://komarev.com/ghpvc/?username=Dcod36&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-</a>
-<br/><br/>
-<a href="https://github.com/Dcod36?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dcod36?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a0a2e" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-22c55e?style=for-the-badge&labelColor=0d1117" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<!-- ✅ Verified working wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</div>
 
 ---
 
@@ -57,22 +18,29 @@
 <tr>
 <td width="60%" valign="top">
 
-```python
-class Devika:
-    name       = "Devika Santhosh"
-    location   = "Kerala, India 🇮🇳"
-    university = "CUSAT, Kochi"
-    cgpa       = "8.6 / 10"
-    focus      = ["AI", "Computer Vision", "ML"]
-    status     = "Open to Internships & Collaborations ✅"
+### 👩‍💻 Devika Santhosh
 
-    def say_hi(self):
-        print("Thanks for stopping by! 💜")
-        print("Let's build something amazing 🚀")
+| | |
+|---|---|
+| 🌍 **Location** | Kerala, India 🇮🇳 |
+| 🎓 **University** | CUSAT, Kochi |
+| 📊 **CGPA** | 8.6 / 10 |
+| 🔬 **Focus** | AI · Computer Vision · ML |
+| ⚡ **Status** | Open to Internships & Collaborations ✅ |
 
-me = Devika()
-me.say_hi()
-```
+<br/>
+
+<a href="https://github.com/Dcod36">
+  <img src="https://komarev.com/ghpvc/?username=Dcod36&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://github.com/Dcod36?tab=followers">
+  <img src="https://img.shields.io/github/followers/Dcod36?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a0a2e" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-22c55e?style=for-the-badge&labelColor=0d1117" />
+
+---
 
 🤖 Passionate about **Artificial Intelligence & Computer Vision**  
 🧠 Building intelligent systems — from CV pipelines to AI accessibility tools  
