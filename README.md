@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Dcod36" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/Dcod36/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -43,7 +43,7 @@ class Devika:
         self.interests   = ["Computer Vision", "Deep Learning", "Hackathons", "DSA"]
         self.languages   = ["Python", "C++", "JavaScript", "Dart"]
         self.superpower  = "Turning caffeine into AI models ☕→🤖"
-    
+
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together 🚀")
 
@@ -77,21 +77,22 @@ me.say_hi()
 
 ### 🤖 AI / ML
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-FF6B6B?style=for-the-badge&logo=face&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -105,7 +106,7 @@ me.say_hi()
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Dcod36?theme=dark&border=6C63FF)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dcod36?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8)
 
 </div>
 
@@ -157,11 +158,50 @@ Arrays · Sliding Window · Prefix Sum · Hashing · Two Pointers · Binary Sear
 
 <div align="center">
 
-![snake gif](https://github.com/Dcod36/Dcod36/blob/output/github-contribution-grid-snake-dark.svg)
+> **💡 Set up the snake animation** by creating `.github/workflows/snake.yml` in your `Dcod36/Dcod36` repo:
 
 </div>
 
-> **💡 To enable the snake animation:** Go to your GitHub repo `Dcod36/Dcod36`, create a GitHub Actions workflow at `.github/workflows/snake.yml` with the snake generator action — it auto-generates the SVG on a schedule.
+<details>
+<summary>📋 Click to see snake.yml</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<div align="center">
+
+<!-- Remove the comment tags below AFTER running the workflow once -->
+<!-- ![snake gif](https://github.com/Dcod36/Dcod36/blob/output/github-contribution-grid-snake-dark.svg) -->
+
+</div>
 
 ---
 
