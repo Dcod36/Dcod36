@@ -63,13 +63,9 @@ Git · GitHub · Firebase · MATLAB · Jupyter · Arduino
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dcod36&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dcod36&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Dcod36&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
 
 
 ## 📊 Contribution Graph
