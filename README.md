@@ -32,22 +32,31 @@
 
 ```python
 class Devika:
-    name       = "Devika Santhosh"
-    location   = "Kerala, India 📍"
-    university = "CUSAT, Kochi — B.Tech Information Technology (2022–2026)"
-    dual_degree = "IIT Madras — BS Data Science (Ongoing)"
-    cgpa       = 8.6
-    focus      = ["Computer Vision", "Artificial Intelligence", "Machine Learning"]
-    hackathons = ["🥇 TinkerHack (1st)", "🥉 HackEuropa (3rd – European Stage)", "🚀 TechSprint Top 10"]
-    status     = "Available for opportunities ✨"
+    def __init__(self):
+        self.name = "Devika Santhosh"
+        self.location = "Kerala, India 📍"
+        self.education = [
+            "B.Tech IT @ CUSAT, Kochi (2022–2026)",
+            "BS Data Science @ IIT Madras (Ongoing)"
+        ]
+        self.cgpa = 8.6
+        self.focus = [
+            "Computer Vision",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ]
+        self.achievements = [
+            "🥇 TinkerHack (1st Place)",
+            "🥉 HackEuropa (3rd – European Stage)",
+            "🚀 TechSprint Top 10"
+        ]
+        self.status = "Open to opportunities ✨"
 
     def passion(self):
-        return "Building intelligent systems that go beyond theory — real-time CV pipelines to AI-powered accessibility tools."
+        return "Building intelligent systems beyond theory — from CV pipelines to AI tools."
 ```
 
-> *"Always building, always learning — looking for opportunities to create meaningful impact."*
-
----
+> *"Always building, always learning — creating meaningful impact."*
 
 ## 🏆 Achievements
 
