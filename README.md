@@ -1,58 +1,57 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              ANIMATED WAVE HEADER               -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════ -->
+<!--           ANIMATED WAVE HEADER             -->
+<!-- ══════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20Devika%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--          ANIMATED GIRL + GREETING               -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════ -->
+<!--       ANIMATED GIRL + GREETING SECTION     -->
+<!-- ══════════════════════════════════════════ -->
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding Girl" />
+<!-- ✅ Verified working: coding person with setup -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding Animation" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&pause=1000&color=A855F7&center=true&vCenter=true&width=480&lines=Hello+World!+👋;I'm+Devika+Santhosh+✨;Nice+to+Meet+You!+💜;Let's+Build+Together!+🚀" alt="Greetings" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Devika+Santhosh!+✨;Nice+to+Meet+You!+💜;Let's+Build+Together!+🚀" alt="Greeting Typing" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=EC4899&center=true&vCenter=true&width=420&lines=AI+%26+ML+Enthusiast+🤖;Computer+Vision+Explorer+👁️;Deep+Learning+Learner+🧠;Building+Real-World+Projects+🚀;DSA+%26+Problem+Solving+💻" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=EC4899&center=true&vCenter=true&width=430&lines=AI+%26+ML+Enthusiast+🤖;Computer+Vision+Explorer+👁️;Deep+Learning+Learner+🧠;Building+Real-World+Projects+🚀;DSA+%26+Problem+Solving+💻" alt="Roles" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Dcod36">
-  <img src="https://komarev.com/ghpvc/?username=Dcod36&label=Visitors&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Dcod36&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 </a>
+<br/><br/>
 <a href="https://github.com/Dcod36?tab=followers">
   <img src="https://img.shields.io/github/followers/Dcod36?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a0a2e" />
 </a>
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Available%20Now-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-22c55e?style=for-the-badge&labelColor=0d1117" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Divider" />
+<!-- ✅ Verified working wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## 🧠 About Me
 
 <table>
 <tr>
@@ -68,11 +67,11 @@ class Devika:
     status     = "Open to Internships & Collaborations ✅"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! 💜")
-        print("Let's build something amazing together 🚀")
+        print("Thanks for stopping by! 💜")
+        print("Let's build something amazing 🚀")
 
-devika = Devika()
-devika.say_hi()
+me = Devika()
+me.say_hi()
 ```
 
 🤖 Passionate about **Artificial Intelligence & Computer Vision**  
@@ -80,14 +79,15 @@ devika.say_hi()
 🏆 **1st @ TinkerHack** · **3rd @ HackEuropa** (European stage) · **Top 10 @ TechSprint**  
 🎓 **B.Tech IT @ CUSAT** · **BS Data Science @ IIT Madras**  
 💬 Ask me about: **Python, AI/ML, Computer Vision, Deep Learning**  
-⚡ Fun fact: *I once reduced prototype cost by 30% with in-house 3D printing!*  
+⚡ Fun fact: *I once reduced prototype cost by 30% with in-house 3D printing!*
 
 > *"Always building, always learning — looking for opportunities to create meaningful impact."*
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" alt="Working Girl" />
+<!-- ✅ Verified working: girl with green headphones coding -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" alt="Coding Girl" />
 
 </td>
 </tr>
@@ -99,13 +99,13 @@ devika.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Quick Stats
+## ⚡ Quick Facts
 
 <div align="center">
 
 | 🎓 University | 📊 CGPA | 🌍 Location | ⚡ Status |
 |:---:|:---:|:---:|:---:|
-| CUSAT, Kerala | **8.6/10** | Kerala, India | 🟢 Open to Work |
+| CUSAT, Kerala | **8.6 / 10** | Kerala, India 🇮🇳 | 🟢 Open to Work |
 
 | 🏆 Hackathons | 💻 Projects | 📜 Certifications |
 |:---:|:---:|:---:|
@@ -115,31 +115,28 @@ devika.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="30" /> GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200" alt="Coding Animation" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dcod36&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=ec4899&text_color=e2e8f0&bg_color=0d1117" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcod36&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117&langs_count=8" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dcod36&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=ec4899&text_color=e2e8f0&bg_color=0d0b1a&rank_icon=github" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Dcod36&theme=tokyonight&hide_border=true&stroke=a855f7&ring=ec4899&fire=f472b6&currStreakLabel=a855f7&background=0d1117" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcod36&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d0b1a&langs_count=8" width="38%" />
-
-</div>
-
-<div align="center">
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dcod36&theme=transparent&hide_border=true&stroke=a855f7&ring=ec4899&fire=f472b6&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b&background=0d0b1a" width="55%" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="30" /> Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dcod36&bg_color=030014&color=a855f7&line=ec4899&point=f472b6&area=true&area_color=a855f720&hide_border=true&custom_title=Devika's%20Contribution%20Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dcod36&bg_color=0d1117&color=a855f7&line=ec4899&point=f472b6&area=true&hide_border=true&custom_title=Devika's%20Contribution%20Graph" width="98%" />
 </div>
 
 ---
@@ -156,7 +153,7 @@ devika.say_hi()
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="28" /> 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -164,32 +161,35 @@ devika.say_hi()
 <tr>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" />
-
-### 🥇 TinkerHack — CUSAT
+# 🥇
+### TinkerHack — CUSAT
 **1st Prize**
 
-Developed **Nexo** — a DeepFace-based live facial recognition missing-person identification system
+Developed **Nexo** — a DeepFace live facial recognition system for missing-person identification
+
+![Badge](https://img.shields.io/badge/1st%20Prize-DeepFace%20AI-ec4899?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" />
-
-### 🥉 HackEuropa
+# 🥉
+### HackEuropa
 **3rd Prize**
 
-Built an **Inclusive Learning Platform** for accessibility — competing at a European-level hackathon
+Built an **Inclusive Learning Platform** for accessibility — competed at a European-level hackathon
+
+![Badge](https://img.shields.io/badge/3rd%20Prize-European%20Stage-3b82f6?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" />
-
-### 🚀 TechSprint — GDG CUSAT
+# 🚀
+### TechSprint — GDG CUSAT
 **Top 10 Finalist**
 
 Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optimization system
+
+![Badge](https://img.shields.io/badge/Top%2010-From%2099%2B%20Teams-a855f7?style=for-the-badge)
 
 </td>
 </tr>
@@ -197,9 +197,13 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
+
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="28" /> 💼 Experience
+## 💼 Experience
 
 <table>
 <tr>
@@ -208,9 +212,9 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 ### 🔬 AI & Computational Thinking Intern
 **MATLAB** · *June 2025*
 
-- Worked on supervised learning & optimization techniques
-- Improved model performance via hyperparameter tuning
-- Gained hands-on data analysis & predictive modeling experience
+▹ Supervised learning & optimization techniques using MATLAB  
+▹ Improved model performance via hyperparameter tuning  
+▹ Hands-on data analysis & predictive modeling experience
 
 </td>
 <td width="50%" valign="top">
@@ -218,9 +222,9 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 ### 🤖 Project Intern
 **FabLab** · *May 2024*
 
-- Built an interactive robotic pet using **Arduino**
-- Integrated IR and ultrasonic sensors for obstacle detection
-- Reduced prototype cost by **30%** using in-house 3D printing
+▹ Built an interactive robotic pet using **Arduino**  
+▹ Integrated IR and ultrasonic sensors for obstacle detection  
+▹ Reduced prototype cost by **30%** using in-house 3D printing
 
 </td>
 </tr>
@@ -228,10 +232,11 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="28" /> 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-8968961bde43.gif" width="200" />
+<!-- ✅ Verified working wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </div>
 
 <br/>
@@ -239,10 +244,6 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dcod36&repo=nexo&theme=transparent&hide_border=true&title_color=ec4899&text_color=e2e8f0&bg_color=0d0b1a&icon_color=a855f7" />
-</a>
 
 ### 🔴 Nexo – AI Visual Recovery
 *🥇 TinkerHack 1st Prize · Missing Person ID*
@@ -312,20 +313,9 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="28" /> 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-f4a4-4b83-9d74-9ef298d62b01.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9f4ea083-4ca0-461e-a8e9-f48b87c1e63e.gif" width="50" />
-
-<br/><br/>
 
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -347,6 +337,7 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -356,11 +347,18 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+<br/>
+
+<!-- ✅ Skillicons - reliable animated skill icons -->
+<img src="https://skillicons.dev/icons?i=py,cpp,js,dart,react,nextjs,flutter,opencv&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,firebase,fastapi,tailwind,html,css&theme=dark&perline=8" />
+
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="28" /> 🎓 Education
+## 🎓 Education
 
 <div align="center">
 
@@ -368,19 +366,17 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 |:---:|:---|:---|:---:|
 | 🟣 | B.Tech – Information Technology | **CUSAT, Kochi** | CGPA: **8.6/10** · 2022–2026 |
 | 🔵 | BS – Data Science (Online) | **IIT Madras** | CGPA: 6.13 · Ongoing |
-| 🩷 | NPTEL Certification | **Artificial Intelligence** | Elite – **82%** |
+| 🩷 | NPTEL Certification – AI | **NPTEL** | Elite – **82%** |
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a4c5c08-3e4b-4c87-9d4b-ef6ed4e0a25a.png" width="28" /> 📫 Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f674d2d-149a-41f8-b36e-0f72c02a2d65.png" width="100" alt="Hi there" />
-
-<br/><br/>
+<br/>
 
 <a href="mailto:devikasanthosh389@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Say%20Hello%20👋-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -401,24 +397,6 @@ Selected from **99+ teams** for TraffiQ — an AI-powered adaptive traffic optim
 | [devikasanthosh389@gmail.com](mailto:devikasanthosh389@gmail.com) | [devika-santhosh-7b73472b2](https://www.linkedin.com/in/devika-santhosh-7b73472b2) | [Dcod36](https://github.com/Dcod36) |
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Thanks for visiting" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Watch my contribution snake eat commits!
-
-<img src="https://raw.githubusercontent.com/Dcod36/Dcod36/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
