@@ -19,67 +19,34 @@
 <td width="55%" valign="middle">
 
 ### 👩‍💻 Devika Santhosh
+**AI Developer · Computer Vision · Kerala 🇮🇳**
 
-| | |
-|---|---|
-| 🌍 **Location** | Kerala, India 🇮🇳 |
-| 🎓 **University** | CUSAT, Kochi |
-| 📊 **CGPA** | 8.6 / 10 |
-| 🔬 **Focus** | AI · Computer Vision · ML |
-| ⚡ **Status** | Open to Internships & Collaborations ✅ |
+> *"Always building, always learning — creating meaningful impact."*
 
-<a href="https://github.com/Dcod36">
-  <img src="https://komarev.com/ghpvc/?username=Dcod36&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-</a>
-<br/>
-<a href="https://github.com/Dcod36?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dcod36?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a0a2e" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-22c55e?style=for-the-badge&labelColor=0d1117" />
+🎓 B.Tech IT @ **CUSAT** · BS Data Science @ **IIT Madras**  
+🏆 **1st** TinkerHack · **3rd** HackEuropa · **Top 10** TechSprint
 
 <br/>
 
-🤖 Passionate about **Artificial Intelligence & Computer Vision**
+![CGPA](https://img.shields.io/badge/CGPA-8.6%2F10-7c3aed?style=flat-square&labelColor=1a0a2e)
+![Focus](https://img.shields.io/badge/Focus-AI%20|%20CV%20|%20ML-ec4899?style=flat-square&labelColor=1a0a2e)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117)
 
-🧠 Building systems — from CV pipelines to AI accessibility tools
+<br/>
 
-🏆 **1st @ TinkerHack** · **3rd @ HackEuropa** · **Top 10 @ TechSprint**
-
-🎓 **B.Tech IT @ CUSAT** · **BS Data Science @ IIT Madras**
-
-> *"Always building, always learning."*
+<a href="https://github.com/Dcod36"><img src="https://komarev.com/ghpvc/?username=Dcod36&label=Views&color=7c3aed&style=for-the-badge" /></a>
+<a href="https://github.com/Dcod36?tab=followers"><img src="https://img.shields.io/github/followers/Dcod36?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a0a2e" /></a>
 
 </td>
-<td width="45%" valign="middle" align="center">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Coding Girl" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" alt="Coding Girl" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</div>
 
----
-
-## ⚡ Quick Facts
-
-<div align="center">
-
-| 🎓 University | 📊 CGPA | 🌍 Location | ⚡ Status |
-|:---:|:---:|:---:|:---:|
-| CUSAT, Kerala | **8.6 / 10** | Kerala, India 🇮🇳 | 🟢 Open to Work |
-
-| 🏆 Hackathons | 💻 Projects | 📜 Certifications |
-|:---:|:---:|:---:|
-| 3+ | 4+ | NPTEL Elite – AI (82%) |
-
-</div>
-
----
 
 ## 📊 GitHub Insights
 
