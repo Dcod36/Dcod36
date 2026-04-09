@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="middle">
 
 ### 👩‍💻 Devika Santhosh
 
@@ -28,34 +28,32 @@
 | 🔬 **Focus** | AI · Computer Vision · ML |
 | ⚡ **Status** | Open to Internships & Collaborations ✅ |
 
-<br/>
-
 <a href="https://github.com/Dcod36">
   <img src="https://komarev.com/ghpvc/?username=Dcod36&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 </a>
-&nbsp;
+<br/>
 <a href="https://github.com/Dcod36?tab=followers">
   <img src="https://img.shields.io/github/followers/Dcod36?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a0a2e" />
 </a>
-&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-22c55e?style=for-the-badge&labelColor=0d1117" />
 
----
+<br/>
 
-🤖 Passionate about **Artificial Intelligence & Computer Vision**  
-🧠 Building intelligent systems — from CV pipelines to AI accessibility tools  
-🏆 **1st @ TinkerHack** · **3rd @ HackEuropa** (European stage) · **Top 10 @ TechSprint**  
-🎓 **B.Tech IT @ CUSAT** · **BS Data Science @ IIT Madras**  
-💬 Ask me about: **Python, AI/ML, Computer Vision, Deep Learning**  
-⚡ Fun fact: *I once reduced prototype cost by 30% with in-house 3D printing!*
+🤖 Passionate about **Artificial Intelligence & Computer Vision**
 
-> *"Always building, always learning — looking for opportunities to create meaningful impact."*
+🧠 Building systems — from CV pipelines to AI accessibility tools
+
+🏆 **1st @ TinkerHack** · **3rd @ HackEuropa** · **Top 10 @ TechSprint**
+
+🎓 **B.Tech IT @ CUSAT** · **BS Data Science @ IIT Madras**
+
+> *"Always building, always learning."*
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
-<!-- ✅ Verified working: girl with green headphones coding -->
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" alt="Coding Girl" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="Coding Girl" />
 
 </td>
 </tr>
@@ -107,17 +105,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dcod36&bg_color=0d1117&color=a855f7&line=ec4899&point=f472b6&area=true&hide_border=true&custom_title=Devika's%20Contribution%20Graph" width="98%" />
 </div>
 
----
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dcod36&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</div>
 
 ---
 
